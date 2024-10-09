@@ -31,6 +31,7 @@ SOURCE:=$(BASE)/sources/$(R)
 BUILD:=$(OUT)/build
 STAMP:=$(OUT)/.stamp
 ROOTFS:=$(OUT)/rootfs
+CONFIG:=$(OUT)/config
 BOOT:=$(OUT)/boot
 OVERLAYFS:=$(OUT)/overlayfs
 
